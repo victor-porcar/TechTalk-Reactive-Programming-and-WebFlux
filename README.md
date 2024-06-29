@@ -20,7 +20,7 @@ This scenario is **reactive** because the subscriber will **_react_** to a new d
 *   It is message-driven mechanism
 *   Low coupling between Publishe and Subscriber
 
-## Reactive Programming in Java
+## Reactive Programming in Java 
  
 While **Asynchronous** **processing** is quite old in computing, in Java it can be achieved from the very first day by Managing Threads in an _ad-hoc_ solution (from Java 1) or using java.concurrent.util API (from Java 1.5)
 

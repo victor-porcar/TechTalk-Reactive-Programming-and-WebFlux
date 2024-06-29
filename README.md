@@ -3,7 +3,7 @@
 ## Introduction to Reactive Paradigm
  
 
-![image](./paradigm.png)
+![image](./paradigm_reactive.png)
 
   
 
